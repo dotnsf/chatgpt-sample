@@ -23,11 +23,15 @@ This demonstraits ChatGPT `Completion` API via Swagger API UI.
 
   - `$ API_KEY=xxxxxxxxxxx node app`
 
-4. Access Swagger API UI
+4. Access to sample HTML, and try this:
+
+  - `http://localhost:8080/`
+
+5. Or you can access Swagger API UI:
 
   - `http://localhost:8080/_doc`
 
-5. Try `POST /complete` with your message as `prompt`. 
+6. and try `POST /complete` with your message as `prompt`. 
 
 
 ## Account
